@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <!-- Σύνδεση με το αρχείο CSS (αν υπάρχει) -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Meta tags για SEO, κοινωνικά δίκτυα, και άλλες πληροφορίες -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Αυτό είναι το προσωπικό site του Βασιλείου Θωμόπουλου, με πληροφορίες για την καριέρα του και τις δραστηριότητές του.">
+    <meta name="keywords" content="Βασίλειος Θωμόπουλος, Άνορθωση Βόλου, Basketball, παιδικό Β'">
+    <meta name="author" content="Βασίλειος Θωμόπουλος">
+    
+    <!-- Meta tags για κοινωνικά δίκτυα (Open Graph για Facebook, Twitter κλπ.) -->
+    <meta property="og:title" content="Το Προσωπικό Site του Βασιλείου Θωμόπουλου">
+    <meta property="og:description" content="Ανακαλύψτε πληροφορίες για τον Βασίλειο Θωμόπουλο και την καριέρα του στον μπάσκετ.">
+    <meta property="og:image" content="URL_TO_IMAGE.jpg">
+    <meta property="og:url" content="https://gagobill.github.io/gg/">
+    
+    <!-- Ρύθμιση για το SEO και τις μηχανές αναζήτησης -->
+    <meta name="robots" content="index, follow">
+
+    <!-- Τίτλος της σελίδας (φαίνεται στην καρτέλα του προγράμματος περιήγησης) -->
+    <title>Το Προσωπικό Site του Βασιλείου Θωμόπουλου</title>
+</head>
+<body>
+    <!-- Εδώ μπαίνει το περιεχόμενο της σελίδας -->
+    <h1>Καλώς ήρθατε στο προσωπικό μου site!</h1>
+    <p>Αυτός είναι ο χώρος μου για να μοιραστώ τις δραστηριότητες μου και να ενημερώσω τους φίλους και υποστηρικτές μου!</p>
+</body>
+</html>
